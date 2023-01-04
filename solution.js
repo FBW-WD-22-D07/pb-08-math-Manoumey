@@ -30,4 +30,4 @@ console.log(Math.floor(28.329));
 
 //3. Würfelwurf!
 
-console.log(Math.floor(Math.random() *6 +1));
+console.log(Math.floor(Math.random() *6) +1);
